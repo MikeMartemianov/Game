@@ -64,6 +64,7 @@ public class SettingsMenu : MonoBehaviour
     [SerializeField] private float animationSpeed = 5f;
     // ...
 }
+```
 The menu slides in and out using a toggle button — optimized for mobile UI.
 
 🚀 How to Play
@@ -164,6 +165,7 @@ public class SettingsMenu : MonoBehaviour
     [SerializeField] private float animationSpeed = 5f;
     // ...
 }
+```
 Меню плавно открывается и закрывается кнопкой. Оптимизировано для мобильных интерфейсов.
 
 🚀 Как играть

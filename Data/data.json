@@ -1,4 +1,5 @@
 {
     "lang": "ru",
-    "coins": 10000000
+    "coins": 0,
+    "move": "finger"
 }

@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: 90c40470337ef3947903e524caadbc56
+guid: c9a2c915bb3d77648a01cb74b7ddfca6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3358933203163112000
-    second: settings_0
+      213: 3160783040925449339
+    second: 360_F_823790527_W8LzQlbBEflwLzygPmTav3Gfxd3oIeqm_0
+  - first:
+      213: -8278688027663998596
+    second: 360_F_823790527_W8LzQlbBEflwLzygPmTav3Gfxd3oIeqm_1
+  - first:
+      213: -4378584875985732113
+    second: 360_F_823790527_W8LzQlbBEflwLzygPmTav3Gfxd3oIeqm_2
+  - first:
+      213: 2960065890718549697
+    second: 360_F_823790527_W8LzQlbBEflwLzygPmTav3Gfxd3oIeqm_3
+  - first:
+      213: 832356878159593092
+    second: 360_F_823790527_W8LzQlbBEflwLzygPmTav3Gfxd3oIeqm_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -152,13 +164,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: settings_0
+      name: 360_F_823790527_W8LzQlbBEflwLzygPmTav3Gfxd3oIeqm_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 225
-        height: 225
+        x: 30
+        y: 63
+        width: 266
+        height: 226
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,8 +178,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0cd92315c0ca261d0800000000000000
-      internalID: -3358933203163112000
+      spriteID: b7cb07edd6b5ddb20800000000000000
+      internalID: 3160783040925449339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 360_F_823790527_W8LzQlbBEflwLzygPmTav3Gfxd3oIeqm_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 47
+        width: 227
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71eec8e9113c1d80800000000000000
+      internalID: -8278688027663998596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 360_F_823790527_W8LzQlbBEflwLzygPmTav3Gfxd3oIeqm_2
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 248
+        width: 63
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedf8f701442c33c0800000000000000
+      internalID: -4378584875985732113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 360_F_823790527_W8LzQlbBEflwLzygPmTav3Gfxd3oIeqm_3
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 47
+        width: 226
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c687089e34441920800000000000000
+      internalID: 2960065890718549697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 360_F_823790527_W8LzQlbBEflwLzygPmTav3Gfxd3oIeqm_4
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 63
+        width: 266
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e3e01bb202d8b00800000000000000
+      internalID: 832356878159593092
       vertices: []
       indices: 
       edges: []
@@ -183,7 +279,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      settings_0: -3358933203163112000
+      360_F_823790527_W8LzQlbBEflwLzygPmTav3Gfxd3oIeqm_0: 3160783040925449339
+      360_F_823790527_W8LzQlbBEflwLzygPmTav3Gfxd3oIeqm_1: -8278688027663998596
+      360_F_823790527_W8LzQlbBEflwLzygPmTav3Gfxd3oIeqm_2: -4378584875985732113
+      360_F_823790527_W8LzQlbBEflwLzygPmTav3Gfxd3oIeqm_3: 2960065890718549697
+      360_F_823790527_W8LzQlbBEflwLzygPmTav3Gfxd3oIeqm_4: 832356878159593092
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
